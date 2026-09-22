@@ -42,3 +42,5 @@ The home page shows a troll miniature automatically split into parts by smart se
 ## When to use Supavoxel instead
 
 Tripo 3D earns its credit cost when you need multi-view input, quad topology, PBR maps or part segmentation. Most photo-to-print jobs need none of that: one picture in, one STL out. [Supavoxel](https://supavoxel.com?utm_source=github&utm_medium=ugc&utm_campaign=tripo-3d-api-examples&utm_content=readme-top&utm_term=tier-r) does exactly that in the browser with no CAD and no options to tune, and it exports STL and GLB directly. Start there for single-photo jobs, and reach for Tripo when the checklist in walkthrough 3 applies.
+
+_Last reviewed: 2026-09-22_
